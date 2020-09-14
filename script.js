@@ -154,7 +154,6 @@ class Pipe {
 				score++;
 
 				this.incrementScore = true;
-				audio.play();
 			}
 		}
 	}
